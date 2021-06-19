@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="catalogue_description">catalogue_description</string>
+    <string name="title">title</string>
+    <string name="release_date">release_date</string>
+    <string name="description">description</string>
+    <string name="language">language</string>
+
+    <string name="rate">rate</string>
+    <string name="language_description">language_description</string>
+    <string name="rate_description">rate_description</string>
+    <string name="poster_description">poster_description</string>
+    <string name="backdrop_description">backdrop_description</string>
+
+    <string name="message_undo">undo</string>
+    <string name="message_ok">OK</string>
+    <string name="image_intent">image_intent</string>
+    <string name="un_favorite">un_favorite</string>
+    <string name="favorite" >Favorite</string>
+    <string name="failed_message">Something Wrong</string>
+</resources>
